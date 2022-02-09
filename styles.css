@@ -33,7 +33,7 @@ img{
 }
 
 .text{
-    ;
+    text-align:center;
     padding: 10px;
 }
 
@@ -43,7 +43,7 @@ h2{
 }
 
 p {
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
