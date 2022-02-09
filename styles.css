@@ -44,7 +44,7 @@ h2{
 }
 
 p {
-    padding: 10px;
+    padding-top: 10px;
 }
 
 .attribution { 
@@ -68,6 +68,7 @@ p {
     }
     p {
         padding: 0px;
+        padding-top:10px;
     }    
     
 }
