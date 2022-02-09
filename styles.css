@@ -66,8 +66,9 @@ p {
     h2{
         font-size:1.3rem;
     }
-    
-        
+    p {
+        padding: 0px;
+    }    
     
 }
 
